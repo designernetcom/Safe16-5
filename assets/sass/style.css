@@ -2968,9 +2968,9 @@ img {
   }
 }
 .static-hero-s3 .hero-slider .slick-dots {
-  background: #F8F8F8;
+  /* background: #F8F8F8; */
   bottom: 0;
-  max-width: 400px;
+  /* max-width: 400px; */
   height: 100px;
   line-height: 100px;
   overflow: hidden;
@@ -3013,7 +3013,7 @@ img {
   text-align: center;
   padding: 0px;
   background: transparent;
-  border: 1px solid #545454;
+  /* border: 1px solid #545454; */
   display: block;
   position: absolute;
   left: 10px;
