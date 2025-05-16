@@ -144,10 +144,10 @@
 	content: "\e627";
 }
 .ti-arrow-right:before {
-	content: "\e628";
+	/* content: "\e628"; */
 }
 .ti-arrow-left:before {
-	content: "\e629";
+	/* content: "\e629"; */
 }
 .ti-arrow-down:before {
 	content: "\e62a";
